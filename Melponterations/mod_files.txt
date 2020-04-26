@@ -1,0 +1,12 @@
+add mod.ini
+add disk/bb/Packed/ghz200/ghz200.ar.00
+add disk/bb/Packed/ghz200/ghz200.ar.01
+add disk/bb/Packed/ghz200/ghz200.ar.02
+add disk/bb/Packed/ghz200/ghz200.ar.03
+add disk/bb/Packed/ghz200/ghz200.ar.04
+add disk/bb/Packed/ghz200/ghz200.ar.05
+add disk/bb/Packed/ghz200/ghz200.ar.06
+add disk/bb/Packed/ghz200/ghz200.ar.07
+add disk/bb/Packed/ghz200/ghz200.arl
+add disk/bb/Packed/ghz200/Stage.pdf
+add disk/bb/Packed/ghz200/Stage-Add.pfd
